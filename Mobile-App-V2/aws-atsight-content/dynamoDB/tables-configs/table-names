@@ -1,0 +1,15 @@
+
+{
+    "TableNames": [
+        "accountsActivity",
+        "accountsMainData",
+        "accountsViews",
+        "postCategories",
+        "posts",
+        "profiles",
+        "relatedItems",
+        "sessions",
+        "sessions-restored",
+        "userDevices"
+    ]
+}

@@ -1,0 +1,19 @@
+//
+//  Constants.tsx
+//  atsight_web_version
+//
+//  Created by Nathan Queme the 11/17/22
+//
+
+
+// UI
+const LEFT_WIDTH = "64%"; const RIGHT_WIDTH = "36%"
+const OUTER_PADDING = 45
+const INNER_PADDING = 24
+const MINI_PADDING = 10
+const BORDER_RADIUS = 5
+const BUTTONS_WIDTH_HEIGHT = 50
+const BUTTONS_INNER_PADDING = 16
+
+
+export { LEFT_WIDTH, RIGHT_WIDTH, OUTER_PADDING, INNER_PADDING, MINI_PADDING, BORDER_RADIUS, BUTTONS_WIDTH_HEIGHT, BUTTONS_INNER_PADDING }

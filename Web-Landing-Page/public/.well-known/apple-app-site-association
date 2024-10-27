@@ -1,0 +1,19 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "U2DDDCN5MP.app.atsight.atsightbeta" ], 
+             "paths": [
+              "NOT /privacy/*", "NOT /privacy",
+              "NOT /help/*", "NOT /help",
+              "NOT /contact/*", "NOT /contact",
+              "NOT /terms/*", "NOT /terms",
+              "/*"
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "U2DDDCN5MP.app.atsight.atsightbeta" ]
+   }
+}

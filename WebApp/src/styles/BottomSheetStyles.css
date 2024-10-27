@@ -1,0 +1,35 @@
+
+
+
+.bottomSheet {
+  z-index: 100;
+  width: 100%;
+  position: fixed;
+  height: calc(100vh + 100px);
+  /*border-radius: 12px 12px 0px; */
+  background: #fff;
+  touch-action: none;
+}
+
+
+.iOSBottomSheetButton {
+  height: 60px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+}
+
+
+.bottomSheetButton {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding: 0 20px;
+}
+
+
+
+ 
