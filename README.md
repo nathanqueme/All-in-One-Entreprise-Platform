@@ -13,7 +13,7 @@
 
 # Open Source Business Platform
 
-*At 18, with no prior coding experience and straight out of high school, I developed this entire platform.*
+*At 18, after graduating from high school and before starting university, I dedicated a year to building a fully functional platform.*
 
 This platform empowers businesses to share information internally with customers while:
 - retaining data ownership
@@ -40,7 +40,7 @@ The platform is fully open-source, available as a web app, iOS app, and Android 
 - **Knowledge Base**: Build structured guides and documentation to empower users
 - **Global Reach**: Automatic translation into 70+ languages ensures worldwide accessibility
 - **Smart Management**: Track engagement and optimize content with integrated analytics
-- **Commerce Ready**: Seamless ordering system for products and services, from browse to buy
+- **Commerce Ready**: A seamless ordering system for products and services, enabling users to browse, select, and purchase effortlessly
 - **Seamless Discovery**: Access any profile page instantly via QR code scanning, with separate secure login for account owners
 
 ---
@@ -56,7 +56,7 @@ The platform is fully open-source, available as a web app, iOS app, and Android 
 <img src="Assets/iOS-App-Hotel-Info.gif" alt="Hotel Services" width="200px">
 
 ### Ordering Food from the App
-> Demonstrates the ability to order food by adding items to the cart, with real-time order communication support between guests and staff."
+> Demonstrates the ability to order food by adding items to the cart, with real-time communication support between guests and staff for order updates.
 <img src="Assets/Ordering-Food.gif" alt="Ordering Food" width="200px">
 
 ---
