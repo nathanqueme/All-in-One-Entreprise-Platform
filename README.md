@@ -18,7 +18,7 @@
 
 # Open Source Business Platform
 
-*At 18, after graduating from high school and before starting university, I dedicated a year to building a fully functional platform.*
+*At 18, after graduating from high school and before starting university, I dedicated a year to building a fully functional platform called AtSight.*
 
 This platform empowers businesses to share information internally with customers while:
 - retaining data ownership
