@@ -1,6 +1,7 @@
 <p align="center">
   <img src="../Assets/AtSight-App-Icon.png" height="64" alt="AtSight Icon">
-  <img src="../Assets/AtSight_logo.png" height="64" alt="AtSight Icon" style="padding-left: 10px;">
+  &nbsp;&nbsp;&nbsp;
+  <img src="../Assets/AtSight_logo.png" height="64" alt="AtSight Logo">
 </p>
 
 
