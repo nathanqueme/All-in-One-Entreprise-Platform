@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/n-queme/atsight_web_version/blob/master/src/assets/images/AtSight_logo.png" height="64" alt="AtSight Logo">
+  <img src="https://github.com/n-queme/atsight_web_version/blob/master/src/assets/AtSight-App-Icon.png" height="64" alt="AtSight Logo">
 </p>
 
 
@@ -22,12 +22,10 @@ The atsight-app repository contains hundreds of files of front-end code and cust
 - 2 - Type the following in the search field : ```george6paris```
 - 3 - Click to open the demonstration and test the features.
 
-#### - Snippets
-Snippets of this repository can be found at : https://github.com/n-queme/atsight_app_snippets
 
-## 2 - **The API (atsight-api)** 
-#### - Description of the private repository `atsight-api`:
-The atsight-api repository contains simple backend code to handle the features of the project. This code is essentialy designed with AWS by using the NodeJs client of each service: DynamoDB, S3, Cognito, Comprehend, Amazon Translate.
+## 2 - **The API** 
+#### - Description:
+The atsight-api repository contains backend code to handle the features of the project. This code is essentialy designed with AWS by using the NodeJs client of each service: DynamoDB, S3, Cognito, Comprehend, Amazon Translate.
 
 ### LICENSE
 This project is licensed under the terms of the MIT license.
