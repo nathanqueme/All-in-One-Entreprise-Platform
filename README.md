@@ -69,7 +69,7 @@ The platform is fully open-source, available as a web app, iOS app, and Android 
 ## Tech Stack
 - **Frontend**: React, React Native, Redux, Tailwind CSS
 - **Backend**: Express, Node.js
-- **Cloud**: AWS (DynamoDB, Cognito, S3)
+- **Cloud**: AWS (DynamoDB, Cognito, S3, IAM)
 
 ---
 
