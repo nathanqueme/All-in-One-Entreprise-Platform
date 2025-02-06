@@ -6,4 +6,4 @@
   </p>
 </div>
 
-## Mobile App V2
+## AtSight Mobile App (iOS & Android)
