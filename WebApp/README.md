@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nathanqueme/All-in-One-Entreprise-Platform/blob/master/Assets/AtSight-App-Icon.png" height="64" alt="AtSight Icon">
+  <img src="Assets/AtSight-App-Icon.png" height="64" alt="AtSight Icon">
 </p>
 
 
