@@ -20,7 +20,7 @@
 # Table of Contents
 1. [Background](#background)
 2. [Demo](#demo)
-3. [Features](#features)
+3. [Feature Breakdown](#feature-breakdown)
 4. [Tech Stack](#tech-stack)
 5. [License](#license)
    
@@ -52,7 +52,7 @@
 
 ---
 
-## 3. Features
+## 3. Feature Breakdown
 
 - **CMS**: Share and categorize images, text, and media in an intuitive layout.
 - **Knowledge Base**: Build structured guides to empower users.
