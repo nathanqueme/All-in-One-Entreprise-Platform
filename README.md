@@ -30,9 +30,9 @@
 *At 18, after graduating from high school and before starting university, I dedicated a year to building AtSight.*  
 
 *This platform empowers businesses to share information internally with customers while:*  
-*- retaining data ownership* 
-*- remaining ad-free*
-*- maintaining minimal cost*
+- *retaining data ownership* 
+- *remaining ad-free*
+- *maintaining minimal cost*
 
 *The platform is fully open-source, available as a web app, iOS app, and Android app.*
 
