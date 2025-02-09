@@ -16,25 +16,25 @@
   </table>
 </div>
 
-# All in one Entreprise Platform
-
-## Overview
-> At 18, after graduating from high school and before starting university, I dedicated a year to building a fully functional platform called AtSight.
-
-This platform empowers businesses to share information internally with customers while:
-- retaining data ownership
-- remaining ad-free
-- maintaining minimal cost
-
-> The platform is fully open-source, available as a web app, iOS app, and Android app.
-
+# Table of Contents
+1. [Background](#background)
+2. [Demo](#demo)
+3. [Features](#features)
+4. [Tech Stack](#tech-stack)
+5. [License](#license)
+6. [Conclusion](#conclusion)
+   
 ---
 
-## Table of Contents
-1. [Demo](#demo)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [License](#license)
+## Background
+<sub>At 18, after graduating from high school and before starting university, I dedicated a year to building AtSight.</sub>  
+
+<sub>This platform empowers businesses to share information internally with customers while:</sub>  
+<sub>- retaining data ownership  
+- remaining ad-free  
+- maintaining minimal cost</sub>  
+
+<sub>The platform is fully open-source, available as a web app, iOS app, and Android app.</sub>
 
 ---
 
@@ -71,6 +71,8 @@ This platform empowers businesses to share information internally with customers
 - **Cloud**: AWS (DynamoDB, Cognito, S3, IAM)
 
 ---
+
+## Conclusion
 
 With a robust set of tools for analytics, content management, and more, it serves as a complete alternative to platforms like Instagram and Salesforce.
 
