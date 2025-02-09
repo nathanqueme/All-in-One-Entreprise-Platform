@@ -27,28 +27,28 @@
 ---
 
 ## Background
-<sub>At 18, after graduating from high school and before starting university, I dedicated a year to building AtSight.</sub>  
+*At 18, after graduating from high school and before starting university, I dedicated a year to building AtSight.*  
 
-<sub>This platform empowers businesses to share information internally with customers while:</sub>  
-<sub>- retaining data ownership  
+*This platform empowers businesses to share information internally with customers while:*  
+*- retaining data ownership  
 - remaining ad-free  
-- maintaining minimal cost</sub>  
+- maintaining minimal cost*  
 
-<sub>The platform is fully open-source, available as a web app, iOS app, and Android app.</sub>
+*The platform is fully open-source, available as a web app, iOS app, and Android app.*
 
 ---
 
 ## Demo
 
-### Business profile page and a built-in CMS
+#### Business profile page and a built-in CMS
 > Shows how businesses can structure their information (timetables, addresses, categories, images) and edit it instantly through the built-in content management system.
 <img src="Assets/IG-and-CMS.gif" alt="Image and Text Sharing" width="200px">
 
-### Use case for Hotels
+#### Use case for Hotels
 > Demonstrates how hotels can use the platform to offer all their services and information directly to guests, including room service, detailed guides, WiFi access, contact numbers and more.
 <img src="Assets/iOS-App-Hotel-Info.gif" alt="Hotel Services" width="200px">
 
-### Ordering Food from the App
+#### Ordering Food from the App
 > Demonstrates the ability to order food by adding items to the cart, with real-time communication support between guests and staff for order updates.
 <img src="Assets/Ordering-Food.gif" alt="Ordering Food" width="200px">
 
