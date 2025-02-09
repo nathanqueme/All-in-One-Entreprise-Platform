@@ -54,12 +54,13 @@
 
 ## 3. Features
 
-- **Content Organization**: Share and categorize images, text, and media in an intuitive layout
-- **Knowledge Base**: Build structured guides and documentation to empower users
-- **Global Reach**: Automatic translation into 70+ languages ensures worldwide accessibility
-- **Smart Management**: Track engagement and optimize content with integrated analytics
-- **Commerce Ready**: A seamless ordering system for products and services, enabling users to browse, select, and purchase effortlessly
-- **Seamless Discovery**: Access any profile page instantly via QR code scanning, with separate secure login for account owners
+- **CMS**: Share and categorize images, text, and media in an intuitive layout.
+- **Knowledge Base**: Build structured guides to empower users.
+- **Global Reach**: Automatic translation into 70+ languages ensures worldwide accessibility.
+- **Analytics**: Track engagement (views, clicks) with built-in analytics across both the web and mobile apps.
+- **Commerce Ready**: An Uber-style UI for browsing and purchasing products effortlessly.
+- **Seamless Discovery**: Instantly access profile pages by scanning QR codes.
+- **Security**: Manage content securely with login and IAM protection, ensuring only you have access to your data.
 
 ---
 
