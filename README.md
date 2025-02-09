@@ -27,7 +27,7 @@
 ---
 
 ## Background
-*At 18, after graduating from high school and before starting university, I dedicated a year to building a fully open-source platform, available as a **__Web App, iOS App, AND Android App.__***  
+*At 18, after graduating from high school and before starting university, I dedicated a year to building a fully open-source platform, available as a <u><strong>WEB APP, iOS APP, AND ANDROID APP.</strong></u>*  
 
 *This platform empowers businesses to share information internally with customers while:*  
 - *retaining data ownership* 
