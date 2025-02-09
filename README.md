@@ -26,7 +26,7 @@
    
 ---
 
-## Background
+## 1. Background
 *At 18, after graduating from high school and before starting university, I dedicated a year to building a fully open-source platform, available as a <u><strong>WEB APP, iOS APP, AND ANDROID APP.</strong></u>*  
 
 *This platform replaces Instagram and Salesforce for businesses that want to share information with customers while:*  
@@ -36,7 +36,7 @@
 
 ---
 
-## Demo
+## 2. Demo
 
 #### Business profile page and a built-in CMS
 > Shows how businesses can structure their information (timetables, addresses, categories, images) and edit it instantly through the built-in content management system.
@@ -52,7 +52,7 @@
 
 ---
 
-## Features
+## 3. Features
 
 - **Content Organization**: Share and categorize images, text, and media in an intuitive layout
 - **Knowledge Base**: Build structured guides and documentation to empower users
@@ -63,12 +63,12 @@
 
 ---
 
-## Tech Stack
+## 4. Tech Stack
 - **Frontend**: React, React Native, Redux, Tailwind CSS
 - **Backend**: Express, Node.js
-- **Cloud**: AWS (DynamoDB, Cognito, S3, IAM)
+- **Cloud**: AWS (DynamoDB, S3, Cognito, IAM), Google Firebase (Auth, NoSQL Database)
 
 ---
 
-## License
+## 5. License
 [MIT License](LICENSE)
