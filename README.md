@@ -22,17 +22,16 @@
 3. [Features](#features)
 4. [Tech Stack](#tech-stack)
 5. [License](#license)
-6. [Conclusion](#conclusion)
    
 ---
 
 ## Background
 *At 18, after graduating from high school and before starting university, I dedicated a year to building a fully open-source platform, available as a <u><strong>WEB APP, iOS APP, AND ANDROID APP.</strong></u>*  
 
-*This platform empowers businesses to share information internally with customers while:*  
-- *retaining data ownership* 
+*This platform replaces Instagram and Salesforce for businesses that want to share information with customers while:*  
 - *remaining ad-free*
 - *maintaining minimal cost*
+- *having full control over content and easy customization through the app*
 
 ---
 
@@ -67,12 +66,6 @@
 - **Frontend**: React, React Native, Redux, Tailwind CSS
 - **Backend**: Express, Node.js
 - **Cloud**: AWS (DynamoDB, Cognito, S3, IAM)
-
----
-
-## Conclusion
-
-With a robust set of tools for analytics, content management, and more, it serves as a complete alternative to platforms like Instagram and Salesforce.
 
 ---
 
