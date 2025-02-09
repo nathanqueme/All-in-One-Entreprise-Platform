@@ -16,8 +16,9 @@
   </table>
 </div>
 
-# Open Source Business Platform
+# All in one Entreprise Platform
 
+## Overview
 *At 18, after graduating from high school and before starting university, I dedicated a year to building a fully functional platform called AtSight.*
 
 This platform empowers businesses to share information internally with customers while:
@@ -25,28 +26,15 @@ This platform empowers businesses to share information internally with customers
 - remaining ad-free
 - maintaining minimal cost
 
-With a robust set of tools for analytics, content management, and more, it serves as a complete alternative to platforms like Instagram and Salesforce.
-
 The platform is fully open-source, available as a web app, iOS app, and Android app.
 
 ---
 
 ## Table of Contents
-1. [Features](#features)
-2. [Demo](#demo)
+1. [Demo](#demo)
+2. [Features](#features)
 3. [Tech Stack](#tech-stack)
 4. [License](#license)
-
----
-
-## Features
-
-- **Content Organization**: Share and categorize images, text, and media in an intuitive layout
-- **Knowledge Base**: Build structured guides and documentation to empower users
-- **Global Reach**: Automatic translation into 70+ languages ensures worldwide accessibility
-- **Smart Management**: Track engagement and optimize content with integrated analytics
-- **Commerce Ready**: A seamless ordering system for products and services, enabling users to browse, select, and purchase effortlessly
-- **Seamless Discovery**: Access any profile page instantly via QR code scanning, with separate secure login for account owners
 
 ---
 
@@ -66,10 +54,25 @@ The platform is fully open-source, available as a web app, iOS app, and Android 
 
 ---
 
+## Features
+
+- **Content Organization**: Share and categorize images, text, and media in an intuitive layout
+- **Knowledge Base**: Build structured guides and documentation to empower users
+- **Global Reach**: Automatic translation into 70+ languages ensures worldwide accessibility
+- **Smart Management**: Track engagement and optimize content with integrated analytics
+- **Commerce Ready**: A seamless ordering system for products and services, enabling users to browse, select, and purchase effortlessly
+- **Seamless Discovery**: Access any profile page instantly via QR code scanning, with separate secure login for account owners
+
+---
+
 ## Tech Stack
 - **Frontend**: React, React Native, Redux, Tailwind CSS
 - **Backend**: Express, Node.js
 - **Cloud**: AWS (DynamoDB, Cognito, S3, IAM)
+
+---
+
+With a robust set of tools for analytics, content management, and more, it serves as a complete alternative to platforms like Instagram and Salesforce.
 
 ---
 
